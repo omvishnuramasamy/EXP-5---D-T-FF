@@ -165,10 +165,10 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
-<img width="595" height="369" alt="image" src="https://github.com/user-attachments/assets/38290e4d-a813-4e0c-b891-68044c90623b" />
+<img width="1280" height="705" alt="screenshot exp 5" src="https://github.com/user-attachments/assets/60c921d3-5add-4113-9277-5ff0367ecfeb" />
+
 
 ## Viva-Voce Questions
-
 ●	What is the difference between a latch and a flip-flop?
 
 ●	Why is the D flip-flop also called a 'delay' element?
